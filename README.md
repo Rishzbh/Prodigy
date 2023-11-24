@@ -16,11 +16,6 @@ This repository contains projects completed during the Machine Learning internsh
 ### Task 04: Hand Gesture Recognition
 - Developing a model for recognizing and classifying different hand gestures from image or video data for human-computer interaction.
 
-## Guidelines
-- It is mandatory to update LinkedIn profiles and share Offer Letters on LinkedIn.
-- After completing each task, creating LinkedIn posts detailing the task and gained knowledge with #ProdigyInfoTech tag.
-- No monetary compensation; certificates & LoR provided upon task completion and meeting requirements.
-- Strict adherence to deadlines and punctuality is crucial.
 
 ## Timeline
 - Start: 1st November, 23
